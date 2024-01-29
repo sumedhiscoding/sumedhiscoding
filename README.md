@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 --->
 <p align="left"> <a href="https://twitter.com/sumedhiscoding" target="blank"><img src="https://img.shields.io/twitter/follow/sumedhiscoding?logo=twitter&style=for-the-badge" alt="sumedhiscoding" /></a> </p>
 
-- 🔭 I’m currently working on [SOCIOPATHetic](https://github.com/sumedhiscoding/SOCIOPATHetic-)
+- 🔭 I’m currently working in Nirvin IT Solutions
 
-- 🌱 I’m currently learning **Express,MongoDb and testing websites**
+- 🌱 I’m currently learning **TypeScript , NextJs and Golang**
 
-- 🤝 I’m looking for help with [deployment usign vite-express](https://github.com/sumedhiscoding/WeatherApp)
+- 🤝 I’m looking for help with Golang,Blockchain,DevOps.
 
 - 📝 I regularly write articles on [https://sumedhiswriting.hashnode.dev/](https://sumedhiswriting.hashnode.dev/)
 
